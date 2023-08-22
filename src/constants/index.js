@@ -16,8 +16,8 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
-  tesla,
+  GeekedOut Labs,
+  DrugCheck,
   shopify,
   carrent,
   jobit,
@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "GeekedOut Labs",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
